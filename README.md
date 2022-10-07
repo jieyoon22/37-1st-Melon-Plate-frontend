@@ -51,3 +51,9 @@ HTML, CSS, Javascript, REACT
   - 식당별 상세 페이지
   - Admin 페이지로 식당 관리
  
+ 맡은페이지 리뷰리스트 페이지와 리뷰컴포넌트 
+ 
+ https://velog.io/@abctotoro2/%EB%A9%9C%EB%A1%A0%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EA%B8%80
+ 
+ 벨로그에 정리해 놨음
+ 
